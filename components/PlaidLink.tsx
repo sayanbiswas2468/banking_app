@@ -16,7 +16,6 @@ const PlaidLink = ({ user, variant }: PlaidLinkProps) => {
 
             setToken(data?.linkToken);
         }
-
         getLinkToken();
     }, [user]);
 
@@ -70,5 +69,4 @@ const PlaidLink = ({ user, variant }: PlaidLinkProps) => {
         </>
     )
 }
-
 export default PlaidLink

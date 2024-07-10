@@ -276,8 +276,8 @@ declare interface getTransactionsProps {
 declare interface CreateFundingSourceOptions {
   customerId: string; // Dwolla Customer ID
   fundingSourceName: string; // Dwolla Funding Source Name
-  plaidToken: string; // Plaid Account Processor Token
-  _links: object; // Dwolla On Demand Authorization Link
+  plaidToken: string; 
+  _links: object; 
 }
 
 declare interface CreateTransactionProps {
@@ -293,7 +293,6 @@ declare interface CreateTransactionProps {
 declare interface getTransactionsByBankIdProps {
   bankId: string;
 }
-
 declare interface signInProps {
   email: string;
   password: string;
