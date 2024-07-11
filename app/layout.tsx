@@ -19,12 +19,11 @@ const ibmPlexSerif = IBM_Plex_Serif({
 
 export const metadata: Metadata = {
   title: "BankEase",
-  description: "Hello horizon",
+  description: "BankEase",
   icons: {
     icon: '/icons/OnlyLogo.png'
   }
 };
-
 export default function RootLayout({
   children,
 }: Readonly<{
