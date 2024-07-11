@@ -15,13 +15,13 @@ const Sidebar = ({ user }: SiderbarProps) => {
             <nav className="flex flex-col gap-4">
                 <Link href="/" className="mb-12 cursor-pointer flex items-center gap-2">
                     <Image
-                        src="/icons/logo.svg"
-                        width={34}
-                        height={34}
+                        src="/icons/logo2.svg"
+                        width={170}
+                        height={10}
                         alt="Horizon logo"
-                        className="size-[24px] max-xl:size-14"
+                        className="max-xl:size-14"
                     />
-                    <h1 className="sidebar-logo">Horizon</h1>
+                    {/* <h1 className="sidebar-logo">Horizon</h1> */}
                 </Link>
 
                 {sidebarLinks.map((item) => {
