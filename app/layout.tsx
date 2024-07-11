@@ -13,10 +13,6 @@ const ibmPlexSerif = IBM_Plex_Serif({
   weight: ['400', '700'],
   variable: '--font-ibm-plex-serif'
 })
-
-
-
-
 export const metadata: Metadata = {
   title: "BankEase",
   description: "BankEase",

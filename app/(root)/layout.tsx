@@ -21,7 +21,7 @@ export default async function RootLayout({
 
         <div className="root-layout">
           <Image
-            src='/icons/logo.svg'
+            src='/icons/OnlyLogo.png'
             width={30}
             height={30}
             alt="logo"
