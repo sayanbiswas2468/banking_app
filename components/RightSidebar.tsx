@@ -9,7 +9,7 @@ const RightSidebar = ({ user, transactions, banks }: RightSidebarProps) => {
     const categories: CategoryCount[] = countTransactionCategories(transactions);
 
     return (
-        <aside className="right-sidebar">
+        <aside className="right-sidebar bg-[#fff5eb]">
             <section className="flex flex-col pb-8 ">
                 <div className="profile-banner" />
                 <div className="profile">

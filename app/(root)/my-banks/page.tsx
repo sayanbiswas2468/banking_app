@@ -11,7 +11,7 @@ const MyBanks = async () => {
   })
 
   return (
-    <section className='flex'>
+    <section className='flex bg-[#fff5eb]'>
       <div className="my-banks">
         <HeaderBox
           title="My Bank Accounts"

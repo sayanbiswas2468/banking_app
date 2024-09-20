@@ -16,7 +16,7 @@ const Home = async ({ searchParams: { id, page } }: SearchParamProps) => {
     const appwriteItemId = (id as string) || accountsData[0]?.appwriteItemId;
     const account = await getAccount({ appwriteItemId })
     return (
-        <section className="home">
+        <section className="home bg-[#fff5eb]">
             <div className="home-content">
                 <header className="home-header">
                     <HeaderBox
