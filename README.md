@@ -1,9 +1,9 @@
 <h3 align="center">A Fintech Bank Application</h3>
 
-![Sign in](https://github.com/sayanbiswas0408/banking_app/assets/96792157/e7258a77-f578-4f06-8f84-e513700746d5)
-![Home](https://github.com/sayanbiswas0408/banking_app/assets/96792157/cbd1653a-d15f-4e27-9145-d435c639368a)
-![history](https://github.com/sayanbiswas0408/banking_app/assets/96792157/f83aac7c-62ab-4f2b-8bab-e8c2a8e11718)
-![Transfer](https://github.com/sayanbiswas0408/banking_app/assets/96792157/834f7f28-c1c6-48ce-9fe9-0b5a66dd3d89)
+![home](https://github.com/user-attachments/assets/282ecde7-174b-48db-89b9-60116a1e2b53)
+![bank](https://github.com/user-attachments/assets/6bb72b7f-670c-4754-82de-2e1209ceac44)
+![page 3](https://github.com/user-attachments/assets/085a54ef-634a-4369-b6e3-161dee26d980)
+![page 4](https://github.com/user-attachments/assets/c317592f-6b0b-478b-87bc-ddd514862dff)
 
 <a name="tech-stack">⚙️ Tech Stack</a>
 - Next.js
