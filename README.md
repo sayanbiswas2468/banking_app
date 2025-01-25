@@ -1,10 +1,5 @@
 <h3 align="center">A Fintech Bank Application</h3>
 
-![home](https://github.com/user-attachments/assets/282ecde7-174b-48db-89b9-60116a1e2b53)
-![bank](https://github.com/user-attachments/assets/6bb72b7f-670c-4754-82de-2e1209ceac44)
-![page 3](https://github.com/user-attachments/assets/085a54ef-634a-4369-b6e3-161dee26d980)
-![page 4](https://github.com/user-attachments/assets/c317592f-6b0b-478b-87bc-ddd514862dff)
-
 <a name="tech-stack">⚙️ Tech Stack</a>
 - Next.js
 - TypeScript
